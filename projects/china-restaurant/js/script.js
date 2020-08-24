@@ -14,7 +14,7 @@ $(function () {
     // Home page url snippet
     const homeHtml = 'snippets/home-snippet.html';
     // json CDN
-    const allCategoriesUrl = 'http://davids-restaurant.herokuapp.com/categories.json';
+    const allCategoriesUrl = 'https://davids-restaurant.herokuapp.com/categories.json';
     // categories title snippet url
     const categoriesTitleHtml = 'snippets/categories-title-snippet.html';
     // category snippet url
